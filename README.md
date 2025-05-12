@@ -1,6 +1,6 @@
 ![header](./header.png)
 
-## Telegram Stickers Provider
+## Telegram Stickers Provider forked by camera-2018
 A Xposed/LSPosed plugin to dump stickers from Telegram. Almost all 3rd-party telegram clients are supported.
 
 ![screenshot](./screenshot.jpg)
@@ -24,3 +24,5 @@ Only one Telegram client can be used to dump stickers at once. If the plugin is 
 ### Credits
 
 This project used [YukiHookAPI](https://github.com/HighCapable/YukiHookAPI) and is greatly dependent on the source code of [Telegram Android](https://github.com/DrKLO/Telegram). Thanks!
+
+
